@@ -1,0 +1,6 @@
+2025-10-20T15:06:59.013653661+03:00 [INFO] Hello from YagaLog 1
+2025-10-20T15:06:59.013683706+03:00 [WARNING] Be careful
+2025-10-20T15:06:59.013692019+03:00 [ERROR] Oops: something went wrong
+2025-10-20 15:07:09 [INFO] with caller example (main.go:13)
+{"level":"INFO","msg":"service started: api","time":"2025-10-20 15:07:27"}
+{"level":"ERROR","msg":"failed connect: db","time":"2025-10-20 15:07:27"}
